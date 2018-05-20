@@ -13,3 +13,6 @@ project/plugins/project/
 .history
 .cache
 .lib/
+
+# Do not post all of the assignments
+**/assignments/*
