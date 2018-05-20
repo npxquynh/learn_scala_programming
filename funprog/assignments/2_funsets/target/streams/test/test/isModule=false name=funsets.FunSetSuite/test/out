@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains overlapping elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains elements unique to the first set[0m[0m
+[0m[[0minfo[0m] [0m[32m- filters return a subset of s which p holds[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall returns whether all elements in s are odd[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists returns whether at least one element in s is odd[0m[0m
+[0m[[0minfo[0m] [0m[32m- map returns a new set with a a function applied on each element[0m[0m

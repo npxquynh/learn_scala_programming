@@ -1,0 +1,19 @@
+import org.scalacheck.Gen
+import org.scalacheck.Gen;
+arbitrary[Int]
+for {
+    k <- arbitrary[Int]
+implicit lazy val arbBool: Arbitrary[Boolean] = Arbitrary(oneOf(true, false))
+test:console
+test
+Int.MinValue
+test:console
+test
+test:console
+test
+test:console
+test
+submit quynh.xq@mail.com CfLGxwquTlXR9ixJ
+submit quynh.xq@gmail.com CfLGxwquTlXR9ixJ
+submit quynh.xq@gmail.com sThgMmWMFVPtRcKN
+test
