@@ -8,3 +8,7 @@ Functional Programming Design in Scala: [100%](https://www.coursera.org/account/
 ## Parallelism and Concurrency
 
 http://lara.epfl.ch/w/parcon17:top
+
+Slides in text form: https://github.com/rohgar/scala-parallel-programming-3/wiki
+
+

@@ -14,5 +14,8 @@ project/plugins/project/
 .cache
 .lib/
 
+# Intellj
+.idea/
+
 # Do not post all of the assignments
-**/assignments/*
+assignments/*
